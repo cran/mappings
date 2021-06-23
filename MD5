@@ -1,0 +1,16 @@
+1dba1ed3f03e4e63105047b7cdf1696a *DESCRIPTION
+5996a68b09224e8cc9487b72ca3d3d95 *NAMESPACE
+e19013c06171b6d69d41cb0b4a06d2ff *NEWS.md
+994037846c4254a4561c770415538a50 *R/mapping.R
+c1a24610a8d204df356140839ed0b146 *README.md
+26b4d1d3d532622da4a1acbc8556d03e *man/as.data.frame.mapping.Rd
+f3cdc31cd5ce442a854e8323e873e903 *man/cf.Rd
+53ea625be30763f2bc350d2d55b7f0f1 *man/cut_mapping.Rd
+fa2876ac2eec48d7170abd4908613788 *man/domain.Rd
+e840f5c96363df1ae83a2ce254ee2f3c *man/inverse.Rd
+2b7f913a155a30d4248f293e2c45ab1e *man/mapping.Rd
+1de1ae9eae99ad199271e54604493d89 *man/print.mapping.Rd
+42181f8698a845a8b6404c12000b1c40 *man/remap.Rd
+4c08173ec2ae51b86f988b42e301c2cc *man/text2mapping.Rd
+de6c32e3e4cbd8660523330f77d7ed67 *tests/testthat.R
+9a72ccbaade13b5138afa8c3d79f8088 *tests/testthat/test-mapping.R
